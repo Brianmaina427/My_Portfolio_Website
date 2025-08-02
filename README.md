@@ -1,4 +1,4 @@
-<p>Portfolio Website - Developer Portfolio
+Portfolio Website - Developer Portfolio
 A Responsive, Dark-Themed Technical Portfolio Showcasing Skills, Projects, and Certifications
 
 Live Demo
@@ -71,20 +71,8 @@ Set publish directory: /
 🎨 Customization Guide
 1. Personalize Content
 Replace placeholder text in index.html:
-<!-- Example: Update hero section -->
-<h1>Hi, I'm <span>Brian Maina</span></h1>
-<p>Your professional tagline</p>
 2. Add Projects
 Add images to assets/images/projects/
-Insert new project card:
-<div class="project-card">
-  <img src="assets/images/projects/new-project.jpg" alt="Project">
-  <h3>Project Title</h3>
-  <div class="project-links">
-    <a href="#" class="btn-primary">Live Demo</a>
-    <a href="#" class="btn-secondary">Code</a>
-  </div>
-</div>
 3. Modify Styling
 Edit CSS variables in :root:
 :root {
