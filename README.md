@@ -1,4 +1,4 @@
-Portfolio Website - Developer Portfolio
+<p>Portfolio Website - Developer Portfolio
 A Responsive, Dark-Themed Technical Portfolio Showcasing Skills, Projects, and Certifications
 
 Live Demo
@@ -103,4 +103,4 @@ Email: brianmaina427@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/brian-maina-b17a642ab/
 
-GitHub: https://github.com/Brianmaina427
+GitHub: https://github.com/Brianmaina427<p>
