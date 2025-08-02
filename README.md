@@ -72,7 +72,7 @@ Set publish directory: /
 1. Personalize Content
 Replace placeholder text in index.html:
 <!-- Example: Update hero section -->
-<h1>Hi, I'm <span>Your Name</span></h1>
+<h1>Hi, I'm <span>Brian Maina</span></h1>
 <p>Your professional tagline</p>
 2. Add Projects
 Add images to assets/images/projects/
